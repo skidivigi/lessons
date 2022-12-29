@@ -1,2 +1,2 @@
-# lessons.github.io
+# lessons
 lesson projects
